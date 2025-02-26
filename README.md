@@ -20,10 +20,10 @@ The **Marvel Fans Page** is a tribute to the **Marvel Cinematic Universe (MCU)**
 ✅ **Fully Responsive** – Optimized for all screen sizes.  
 
 
-## **🛠️ Technologies Used**  
-![HTML](html.svg)  
-![CSS](css.png)  
-![JavaScript](javascript.png)  
+## **Technologies Used**  
+- **HTML**: For structuring the content.  
+- **CSS**: For styling and adding animations, including a golden glow effect.  
+- **JavaScript**: For smooth navigation, dynamic greetings, and image interactions.
 
 ---
 
