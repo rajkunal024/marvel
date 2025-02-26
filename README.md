@@ -1,6 +1,6 @@
 # **Marvel Fans Page** 🦸‍♂️🔥  
 
-![Marvel Banner](banner.png)  
+![Marvel Banner](src/banner.png)  
 
 ## **Overview**  
 The **Marvel Fans Page** is a tribute to the **Marvel Cinematic Universe (MCU)**, featuring:  
