@@ -28,11 +28,17 @@ The **Marvel Fans Page** is a tribute to the **Marvel Cinematic Universe (MCU)**
 ---
 
 ## **📁 Project Structure**  
-Marvel-Fans-Page/ │── index.html # Home Page (Avengers Logo)
-│── heroes.html # List of all Avengers heroes
-│── villains.html # Major Marvel villains
-│── movies.html # Marvel movies with posters
-│── style.css # Combined CSS for all pages
-│── script.js # JavaScript for interactivity
-│── Photos/ # Folder containing images
-│── README.md # Project Documentation
+Marvel-Fans-Page/
+│── index.html          # Home Page (Avengers Logo)  
+│── heroes.html         # List of all Avengers heroes  
+│── villains.html       # Major Marvel villains  
+│── movies.html         # Marvel movies with posters  
+│── webseries.html      # Avengers-related web series  
+│── style.css           # Combined CSS for all pages  
+│── script.js           # JavaScript for interactivity  
+│── images/             # Folder containing images  
+│   ├── logo.jpg        # Avengers logo  
+│   ├── ironman.webp    # Iron Man movie poster  
+│   ├── panther.jpeg    # Black Panther poster  
+│   ├── ...            # Other images  
+│── README.md           # Project Documentation  
