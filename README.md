@@ -7,8 +7,7 @@ The **Marvel Fans Page** is a tribute to the **Marvel Cinematic Universe (MCU)**
 - 🏠 **Home Page** – Displays only the **Avengers logo**, revealing images on click.  
 - 🦸‍♂️ **Heroes Page** – Lists all **Avengers: Endgame** heroes with descriptions.  
 - 😈 **Villains Page** – Features major **Marvel villains**.  
-- 🎬 **Movies Page** – Lists **all Marvel movies** with posters.  
-- 📺 **Web Series Page** – Includes only **Avengers-related web series**.  
+- 🎬 **Movies Page** – Lists **all Marvel movies** with posters.    
 
 ---
 
